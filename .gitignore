@@ -1,0 +1,5 @@
+.venv/
+.venv311/
+Foundry-Local/
+__pycache__/
+*.index

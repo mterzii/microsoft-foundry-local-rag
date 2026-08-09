@@ -1,0 +1,7 @@
+Retrieval-Augmented Generation (RAG), büyük dil modellerinin (LLM) harici bilgi kaynaklarıyla beslenmesini sağlayan bir mimaridir. Bu sayede model eğitilmediği veriler hakkında da doğru yanıtlar verebilir.
+
+FAISS (Facebook AI Similarity Search), yüksek boyutlu vektörler arasında çok hızlı benzerlik araması yapabilen açık kaynaklı bir kütüphanedir. Vektör veritabanı ihtiyaçları için sıklıkla tercih edilir.
+
+Python, yapay zeka, veri analizi ve web geliştirme alanlarında yaygın kullanılan, okunabilirliği yüksek dinamik bir programlama dilidir.
+
+Foundry Local SDK, yerel cihazda LLM ve Embedding modellerini GPU veya CPU kaynaklarını kullanarak çalıştırmaya imkan tanıyan hafif bir geliştirme kiti sunar.
