@@ -1,3 +1,4 @@
+<img width="1619" height="466" alt="Ekran görüntüsü 2026-08-11 173009" src="https://github.com/user-attachments/assets/c2a793a2-513d-4f43-8a43-493ef5a24b50" />
 Foundry Local RAG
 
 Microsoft stajım kapsamında geliştirdiğim bir proje. Temel fikir şu: bir dil modeline soru sorduğunda, model sana kendi eğitim verisinden değil — senin verdiğin belgelerden — cevap versin. Buna RAG (Retrieval-Augmented Generation) deniyor.
